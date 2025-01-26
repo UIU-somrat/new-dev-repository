@@ -8,12 +8,12 @@ body {
         position: relative;
         width: 450px;
         height: 670px;
-       border: 5px solid #ef5050;
+       border: 10px solid #ef5050;
         margin: 60px auto 0 auto;
         -webkit-box-shadow: inset 10px 0px 15px 0px rgba(0, 0, 0, 0.1);
                 box-shadow: inset 10px 0px 15px 0px rgba(0, 0, 0, 0.1);
-        background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.155)), to(rgba(255, 255, 255, 0.583))), url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyUO4z1SFtidfmIjjoWEoPzMSA_XDMEtc-21zDQxOkjwO2mSiEWeyDO2osbfLBsQTxfUM&usqp=CAU");
-        background-image: linear-gradient(to bottom, white, rgba(255, 255, 255, 0.5)), url("https://images.pexels.com/photos/7679911/pexels-photo-7679911.jpeg?cs=srgb&dl=pexels-ds-stories-7679911.jpg&fm=jpg");
+        background-image: -webkit-gradient(linear, left top, left bottom, from (rgba(46, 43, 43, 0.155)), to(rgba(33, 32, 32, 0.583))), url("https://img.freepik.com/free-photo/front-view-lots-pink-hearts-coming-out-present-box_23-2149023204.jpg?semt=ais_hybrid");
+        background-image: linear-gradient(to bottom, white, rgba(255, 255, 255, 0.5)), url("https://img.freepik.com/free-photo/front-view-lots-pink-hearts-coming-out-present-box_23-2149023204.jpg?semt=ais_hybrid");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
